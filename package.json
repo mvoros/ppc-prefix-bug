@@ -1,0 +1,8 @@
+{
+  "name": "cap-prefix-issue",
+  "version": "1.0.0",
+  "dependencies": {
+    "@sap/cds": "^4.4.7",
+    "sqlite3": "^4.2.0"
+  }
+}
